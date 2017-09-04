@@ -1,0 +1,5 @@
+FROM hub.furycloud.io/mercadolibre/python-runtime:latest
+
+ADD ./commands /commands
+
+
